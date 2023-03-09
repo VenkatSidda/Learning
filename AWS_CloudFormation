@@ -1,0 +1,15 @@
+AWS::SNS::Topic
+AWS::S3::Bucket
+AWS::S3::BucketPolicy
+AWS::CodeCommit::Repository
+AWS::SSM::Parameter
+AWS::IAM::Role
+AWS::CodePipeline::pipeline
+AWS::CodeBuild::Project
+AWS::Lambda::Function
+Custom:ConfigDeployer
+AWS::StepFunctions::Statemachine
+AWS::SQS::Queue
+AWS::Lambda::EventSourceMapping
+AWS::Events:Rule
+AWS::SQS::QueuePolicy
